@@ -10,7 +10,7 @@ The technologies used to develop this are:
 4. Database - Microsoft SQL Server & Microsoft SQL Server Management Studio
 
 # Credits
-Navin Reddy's Course: https://www.youtube.com/watch?v=OuBUUkQfBYM&t=16572s
+Navin Reddy's Course: https://www.youtube.com/watch?v=OuBUUkQfBYM
 
 # Preview Snapshots
 ## Index Page
